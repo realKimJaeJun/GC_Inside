@@ -5,6 +5,7 @@
 ## 프로젝트 개요
 
 ### 프로젝트 소개
+
 <table>
   <tr>
     <td>프로젝트 구분</td>
@@ -16,7 +17,7 @@
   </tr>
   <tr>
     <td>배포주소</td>
-    <td><a href="http://13.124.167.61:8082/GCInside/" target="_blank">http://13.124.167.61:8082/GCInside/</a></td>
+    <td><a href="http://43.201.52.94:8082/GCInside/index" target="_blank">http://43.201.52.94:8082/GCInside/</a></td>
   </tr>
   <tr>
     <td>개발기간</td>
@@ -40,6 +41,7 @@
 ## 프로젝트 상세 정보
 
 ### 기술 스텍
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -123,8 +125,8 @@
 
 #### 이용 약관 <a href="https://youtu.be/5i63PxGmoPA">영상 링크</a>
 
-
 ## 팀 구성
+
 팀장 심규영
 <a href="https://github.com/hochmun" target="_blank"><img src="https://img.shields.io/badge/-hochmun-blue?style=plastic&logo=github&logoColor=black"/></a>
 
@@ -139,4 +141,5 @@
 
 팀원 전인준
 <a href="https://github.com/aowlrxm15" target="_blank"><img src="https://img.shields.io/badge/-aowlrxm15-green?style=plastic&logo=github&logoColor=black"/></a>
+
 # GC_Inside
